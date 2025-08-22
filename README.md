@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="<your_banner_image_or_delete_this_line>" alt="Banner" />
+  <img src="banner.png" alt="Kshitiz Singh Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Kshitiz Singh 👋</h1>
