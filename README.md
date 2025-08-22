@@ -21,7 +21,7 @@
 - 💡 I build **Android apps** (Java + XML on Android Studio) and **interactive web UIs**.
 - 🎯 Currently improving **UI/UX**, **clean architecture**, and **performance**.
 - 📚 Love making mini-projects: clocks, games, quizzes, converters & more.
-- 📬 Reach me: **adilang852@gmail.com** • 
+- 📬 Reach me: **kshitiz007singh@gmail.com** • 
   <a href="https://www.linkedin.com/in/kshitiz-singh-90ba88252">LinkedIn</a>
 
 ---
