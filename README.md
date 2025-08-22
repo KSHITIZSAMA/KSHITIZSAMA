@@ -80,5 +80,5 @@
 ---
 
 ## 🤝 Connect
-- 📧 Email: <a href="mailto:kshitiz007singh@gmail.com">adilang852@gmail.com</a>  
+- 📧 Email: <a href="mailto:kshitiz007singh@gmail.com">kshitiz007singh@gmail.com</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/kshitiz-singh-90ba88252">kshitiz-singh-90ba88252</a>
