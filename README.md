@@ -27,7 +27,6 @@
 ---
 
 ## 🧰 Tech Stack & Tools
-<!-- Badges from shields.io -->
 <p>
   <!-- Android -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -62,6 +61,13 @@
 
 ---
 
+## 🏆 Achievements & Certificates
+- ⭐ 4★ in Java & 3★ in C, Python on HackerRank  
+- 📜 Completed certifications in **Java, HTML, CSS, and JavaScript**  
+  👉 All certificates available here: [Certificates Repository](https://github.com/KSHITIZSAMA/Certificates)  
+
+---
+
 ## 📊 GitHub Stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KSHITIZSAMA&show_icons=true&theme=radical" />
@@ -72,7 +78,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHITIZSAMA&layout=compact&theme=radical" />
 </p>
 
-<!-- Activity graph (optional) -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KSHITIZSAMA&theme=react-dark&hide_border=true&area=true" />
 </p>
