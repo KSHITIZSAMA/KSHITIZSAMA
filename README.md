@@ -38,7 +38,7 @@
   `HTML • CSS • JavaScript` • [Repo](https://github.com/KSHITIZSAMA/Color-Catch-Game)
 - 🧠 **Interactive Quiz App** — timer, progress, high score  
   `HTML • CSS • JavaScript` • <link your repo>
-- 📱 **Android Portfolio App** — clean XML UI + local JSON  
+- 📱 **Cafe Management App** — clean XML UI + local JSON  
   `Java • XML • Android Studio` • <link your repo>
 
 > 🔗 See all projects in the **Pinned** section on my profile.
@@ -46,8 +46,8 @@
 ---
 
 ## 🏆 Achievements & Certificates
-- ⭐ 4★ in Java & 3★ in C, Python on HackerRank  
-- 📜 Completed certifications in **Java, HTML, CSS, and JavaScript**  
+- ⭐ 250+ questions Across Leetcode,HackerRank etc
+- 📜 Completed certifications in **Java, HTML, CSS, JavaScript and AWS**  
   👉 All certificates available here: [Certificates Repository](https://github.com/KSHITIZSAMA/Certificates)  
 
 ---
